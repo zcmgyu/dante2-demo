@@ -4,7 +4,10 @@
   "private": true,
   "dependencies": {
     "Dante2": "0.4.0",
-    "immutable": "^3.8.2"
+    "draft-js": "^0.10.4",
+    "immutable": "^3.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.17"
