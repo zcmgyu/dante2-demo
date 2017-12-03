@@ -9,7 +9,7 @@ import PlaceholderBlock from 'Dante2/es/components/blocks/placeholder.js'
 import {
     resetBlockWithType,
     addNewBlockAt
-} from 'Dante2/src/model/index.js'
+} from 'Dante2/es/model/index.js'
 
 
 const defaultOptions = (options) => {
@@ -25,6 +25,7 @@ const defaultOptions = (options) => {
     defaultOptions.title_placeholder = "Title"
     defaultOptions.body_placeholder = "Write your story"
     // @defaultOptions.api_key = "86c28a410a104c8bb58848733c82f840"
+    // defaultOptions.debug = true
 
     defaultOptions.widgets = [
         {

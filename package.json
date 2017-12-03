@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "Dante2": "https://github.com/zcmgyu/dante2.git",
+    "Dante2": "0.4.0",
     "immutable": "^3.8.2"
   },
   "devDependencies": {
